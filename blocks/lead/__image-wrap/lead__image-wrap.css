@@ -1,0 +1,10 @@
+.lead__image-wrap {
+  margin: 0;
+  margin-top: 64px;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__image-wrap {
+    margin-top: 40px;
+  }
+}

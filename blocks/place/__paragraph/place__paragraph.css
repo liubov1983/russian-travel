@@ -1,4 +1,4 @@
-.places__paragraph {
+.place__paragraph {
   margin: 0;
   margin-bottom: 26px;
   font-size: 18px;
@@ -6,12 +6,12 @@
   font-weight: 400;
 }
 
-.places__paragraph:last-child {
+.place__paragraph:last-child {
   margin-bottom: 0;
 }
 
 @media screen and (max-width: 1023px) {
-  .places__paragraph {
+  .place__paragraph {
     margin-bottom: 25px;
     font-size: 16px;
     line-height: 26px;
@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .places__paragraph {
+  .place__paragraph {
     padding-right: 16px;
     padding-left: 16px;
   }
